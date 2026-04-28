@@ -60,3 +60,4 @@ python -m streamlit run app.py
 - Ultralytics will download the YOLO model weights automatically on the first YOLO run if they are not already cached.
 - SQLite data is stored in `data/classroom_events.db`.
 - CSV reports are generated in the `reports/` directory.
+Project is concluded
