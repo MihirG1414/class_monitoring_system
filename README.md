@@ -62,3 +62,4 @@ python -m streamlit run app.py
 - SQLite data is stored in `data/classroom_events.db`.
 - CSV reports are generated in the `reports/` directory.
 Project is concluded
+I have updated project
