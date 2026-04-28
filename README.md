@@ -51,6 +51,7 @@ python -m streamlit run app.py
 
 ## Notes
 
+- This README documents the current MVP workflow and setup for quick project demos.
 - Simulated mode remains the default workflow for the MVP.
 - YOLO mode detects the `cell phone` class only and maps each phone box to the nearest student seat zone.
 - MediaPipe mode returns `LOOKING_FORWARD`, `LOOKING_DOWN`, or `FACE_NOT_VISIBLE` per seat.
